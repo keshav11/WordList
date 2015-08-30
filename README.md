@@ -1,2 +1,2 @@
 # WordList
-A WPF application to  maintain create and maintain wordlists.
+A WPF application to create and maintain wordlists.
