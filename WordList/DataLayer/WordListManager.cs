@@ -13,7 +13,7 @@ namespace WordList.DataLayer
         public WordListManager()
         {
             wordList = new List<Word>();
-            persistenceLayer = new WordListPersistenceLayer();
+            persistenceLayer = new XMLPersistenceLayer();
         }
 
         public void Add(string word, string meaning)
