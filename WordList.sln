@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordList", "WordList\WordList.csproj", "{BDBF042F-B827-4227-814C-18EC915C225D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "ConsoleApplication1\Tests.csproj", "{2C7A8E6A-4F2C-4F84-96EE-026948F21780}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{2C7A8E6A-4F2C-4F84-96EE-026948F21780}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
