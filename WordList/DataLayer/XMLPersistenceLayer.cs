@@ -15,7 +15,7 @@ namespace WordList.DataLayer
 
         public XMLPersistenceLayer()
         {
-            xmlFile = @"../../DataLayer/WordList.xml";
+            xmlFile = @"DataLayer/WordList.xml";
             doc = new XmlDocument();
             doc.Load(xmlFile);
         }
